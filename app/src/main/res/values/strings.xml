@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Mountain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Detail_singkat">Detail Singkat</string>
+    <string name="isi_dari_detail">Isi dari Detailn</string>
+    <string name="image_desc">Image of Mountain</string>
+    <string name="mountain_image">Mountain Image</string>
+    <string name="ciremai">Ciremai</string>
+    <string name="ketinggian">Ketinggian</string>
+</resources>
