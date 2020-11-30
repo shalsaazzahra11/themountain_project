@@ -1,4 +1,4 @@
-# themountain_project
+# Screenshot The Mountain
 
 <img src="https://raw.githubusercontent.com/shalsaazzahra11/mountain-asset/data_mountain/mountain_image/themountain1.png" width= "200" />
 
